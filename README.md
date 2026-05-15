@@ -29,6 +29,3 @@
 ![](https://streak-stats.demolab.com/?user=Sahilkumarsunar&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahilkumarsunar&theme=dark&hide_border=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Sahilkumarsunar&icon=0&color=00C896)](https://visitcount.itsvg.in)
