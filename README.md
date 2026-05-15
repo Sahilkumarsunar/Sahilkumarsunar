@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack MERN stack projects to enhance my skills
+🔭 I’m currently working on full-stack MERN projects to enhance my skills   
 👯 I’m looking to collaborate on innovative web applications and scalable backend systems  
 🤝 I’m seeking opportunities to contribute to professional development teams and open-source projects  
 🌱 I’m currently learning advanced backend architecture, React Native, and cloud deployment technologies  
