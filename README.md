@@ -24,8 +24,8 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sahilkumarsunar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Sahilkumarsunar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=Sahilkumarsunar&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahilkumarsunar&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkumarsunar&theme=dark&hide_border=true&layout=compact)
