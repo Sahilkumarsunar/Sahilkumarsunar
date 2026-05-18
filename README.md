@@ -193,23 +193,6 @@ Modern responsive real-estate landing page.
 - API integration using Axios
 - Frontend optimization and debugging
 
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### Open to:
-Full-Stack Opportunities • Collaborations • Open Source • Learning
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sahilkumarsunar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kumar-a8a9922ba)
-
-</div>
-
----
 
 <div align="center">
 
