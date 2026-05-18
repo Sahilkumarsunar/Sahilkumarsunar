@@ -60,7 +60,6 @@ const sahil = {
 | ⚛️ Frontend | React.js • Responsive UI • State Management |
 | 🔧 Backend | Node.js • Express.js • REST APIs |
 | 🛢 Database | MongoDB • Mongoose ODM |
-| 📱 Mobile | React Native |
 | ☁️ Deployment | DigitalOcean • Hosting • Cloud Basics |
 
 </div>
@@ -175,30 +174,6 @@ Modern responsive real-estate landing page.
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Sahilkumarsunar&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilkumarsunar&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkumarsunar&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
-# 🏆 Achievements
-
-- 🥈 1st Runner-Up — Byteverse 1.0 Hackathon
-- 📄 Published Research Paper on Face Recognition Systems
-- 🚀 Built multiple full-stack MERN projects
-- 🌍 Learning scalable backend systems & deployment
-- 🎯 Actively improving problem-solving and development skills
 
 ---
 
