@@ -2,7 +2,7 @@
 
 # Sahil Kumar
 
-### Full-Stack Developer • MERN Stack • Learning by Building
+### MERN Stack • Learning by Building
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Code+•+Learn+•+Build;Full-Stack+MERN+Developer;Building+Real-World+Projects;React+•+Node+•+MongoDB" />
 
@@ -45,7 +45,6 @@ const sahil = {
         "Problem Solving"
     ],
 
-    motto: "Code • Learn • Build"
 };
 ```
 
