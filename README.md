@@ -20,11 +20,11 @@
 
 ```js
 const sahil = {
-    role: "Full-Stack MERN Developer",
+    Tech: "Full-Stack Development",
     
-    currentlyLearning: [
+    currentlyImplementing: [
         "Backend Architecture",
-        "React Native",
+        "React.js",
         "JWT Authentication",
         "Cloud Deployment",
         "Scalable APIs"
